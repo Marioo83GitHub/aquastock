@@ -108,7 +108,7 @@ La app surge como una solución tecnológica para prevenir sobrepoblación, mort
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autores
 **> José Efraín Aguirre Reyes**  
 **> Mario Fernando Carbajal Galo**  
 **> Ury Roberto Aguirre** 
